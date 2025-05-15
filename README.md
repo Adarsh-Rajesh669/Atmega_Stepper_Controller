@@ -1,4 +1,4 @@
-# AVR Stepper Motor Controller
+# Atmega328p Stepper Motor Controller
 
 This project controls a stepper motor using ATmega328P and two buttons:
 - Start/Stop button
